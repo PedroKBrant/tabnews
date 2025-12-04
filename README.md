@@ -1,2 +1,3 @@
 # tabnews
-Repositório para o tabnews.com.br para treinar com o curso curso.dev
+
+Implementação do https://www.tabnews.com.br para o curso https://curso.dev
