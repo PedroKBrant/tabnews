@@ -1,0 +1,7 @@
+services:
+  daatabase:
+    image: "postgres:16.0-alpine3.18"
+    environment:
+      POSTGRES_PASSWORD: "senhasecreta"
+    ports:
+      - "5432:5432"
